@@ -5,5 +5,6 @@ $var2=2;
 
 echo $var+$var2;
 
+echo "master";
 
 ?>
